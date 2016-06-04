@@ -3,6 +3,9 @@ package com.zzu.java.basic;
 import java.util.Scanner;
 
 //        用*打印实心菱形
+//1.计算空格
+//2.输出*号
+//3.换行
 public class CreateRhombus {
     public static void main(String[] args) {
         Scanner keyInput = new Scanner(System.in);
