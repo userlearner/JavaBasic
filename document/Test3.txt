@@ -5,3 +5,4 @@ Third writting
 Fourth writtinig
 Add new branch feature-A
 get branch feature-C from Github
+Test "git commit -a" command
